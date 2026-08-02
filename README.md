@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kantemir Muratov
 
-<!--
-**prplkane/PRPLKANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building reliable SaaS systems, integrations, and data workflows.
 
-Here are some ideas to get you started:
+Currently contributing to live product work across managed software delivery
+and e-commerce operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![UcheNova](https://img.shields.io/badge/UcheNova-Visit%20product-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.uchenova.com/)
+[![Selfmadee](https://img.shields.io/badge/Selfmadee-Visit%20product-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://selfmadee.ai/)
+
+I care about dependable systems: clear data flows, secure integrations,
+maintainable code, and software that helps people make decisions with confidence.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kantemirmuratov)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:kanemuratov@gmail.com)
